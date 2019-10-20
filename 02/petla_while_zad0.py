@@ -1,3 +1,4 @@
+  # zamiana stopni
 przedmiot = 0
 while przedmiot != 3:
     subject = input("przedmiot szkolny: ")

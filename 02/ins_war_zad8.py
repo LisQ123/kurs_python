@@ -1,3 +1,4 @@
+  # Sortowanie. Trzy dowolne liczby podane przez użytkownika zapisz do trzech zmiennych. Znajdź największą liczbę. Wyświetl liczby od największej do najmniejszej.
 a = int(input("podaj liczbe: "))
 b = int(input("podaj liczbe: "))
 c = int(input("podaj liczbe: "))

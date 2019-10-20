@@ -1,3 +1,4 @@
+  # zamiana stopni
 temp_f = 0
 while temp_f >= 200:
     temp_c = 5/9 * (temp_f-32)  #wliczenie stopni cel

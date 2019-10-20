@@ -1,3 +1,4 @@
+  # Stwórz zmienną password. Hasło powinno składać z liter i cyfr, zwierać conajmniej 1 dużą literę i mieć długość conajmniej 8 znaków. Poinformuj użytkownika, jeśli wpisane hasło jest nie poprawne. Wyświetl różne komunikaty w zależności od rodzaju błędu
 pw = input("gimme password: ")
 alphanum = pw.isalnum()
 condition_only_upper = (alphanum and not pw.islower())

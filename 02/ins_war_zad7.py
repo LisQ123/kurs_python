@@ -1,3 +1,4 @@
+  #kalk. BMI
 weight = input("Podaj wagę w kg: ")
 height = input("Podaj wzrost w metrach: ")
 

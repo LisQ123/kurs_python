@@ -1,3 +1,4 @@
+  # lista w gory
 txt = "tekst"
 for letter in txt:
     print("-", letter)
