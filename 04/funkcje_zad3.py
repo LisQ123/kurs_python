@@ -1,1 +1,10 @@
-def daj_liste(liczby):  # przekazac liste, w srodku zrobic sum i wyswietlic?
+  # Napisać funkcję, która przyjmuje listę liczb i zwraca sumę wszystki elementów na liście
+
+
+def suma(numbers):
+    x = sum(numbers)
+    print(x)
+
+
+numbers_list = [1, 2, 3]
+print(suma(numbers_list))
