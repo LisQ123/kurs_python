@@ -11,7 +11,7 @@ def is_visa(is_card, number):
     if not is_card:
         return False
 
-    if can_be_card_number and (len(number) == 16 or len(number) == 13):
+    if len(number) == 16 or len(number) == 13:
         if number[0] == "4":
             return True
 

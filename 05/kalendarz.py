@@ -14,6 +14,4 @@ data = [
       ]
 
 
-# for month in range(0, 31)
-    print day + 1
-
+print(data)
