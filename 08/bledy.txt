@@ -1,0 +1,3 @@
+ha mamy bledy! 
+could not convert string to float: ' adw'
+could not convert string to float: ' 23fafa'
