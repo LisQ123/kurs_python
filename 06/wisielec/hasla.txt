@@ -1,0 +1,3 @@
+animals : kon koza pies kot slon wieloryb osiol
+fodds : jablko chleb ciasto maslo gruszka bulka
+jobs : aptekarz prawnik lekarz listonosz
