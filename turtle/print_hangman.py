@@ -1,16 +1,5 @@
-# def print_hangman():
-#     if guess not in word:
-#         turns = turns - 1
-#         if turns == 9:
-#             print("  o")
-#         if turns == 8:
-#             print("  o")
-#             print("  |")
-#         if turns == 7:
-#             print("  o")
-#             print("  |")
-#             print("  ")
 import turtle
+
 
 def print_hangman(t, incorrect):
     turtle.setup(1000, 600)
@@ -59,6 +48,7 @@ def print_hangman(t, incorrect):
         t.pu()
         t.ht()
 
+
 def rysu(t):
     t.pu()
     t.rt(180)
@@ -68,4 +58,6 @@ def rysu(t):
     t.fd(30)
     t.pu()
     t.ht()
-print(rysu())
+
+
+print(rysu(6))
